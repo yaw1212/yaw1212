@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bartimeaus
-- 👀 I’m interested in prigramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with anyone on a project
 - 📫 How to reach me Bartimeaustettey137@gmail.com
